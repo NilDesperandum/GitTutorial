@@ -1,4 +1,4 @@
 # GitTutorial
 Tutorial for IO
 Łukasz Antkiewicz
-5.11.2019
+Data: 05.11.2019
